@@ -62,7 +62,7 @@
  /* CSS For Main */
  main {
      padding-top: 120px; 
-     background-color: #fdf1decc; /*ffecd1cc*/
+     background-color: white; /*ffecd1cc*/
      background-size: cover;
      height: 1800px;
      background-repeat: no-repeat;
@@ -348,5 +348,6 @@ footer a:hover {
         padding-bottom: 20px;
         font-size: 0.55rem;
      }
+
 
  }
